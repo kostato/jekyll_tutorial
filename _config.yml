@@ -22,7 +22,7 @@ title: My Awesome Website
 email: kosta.tombras@gmail.com 
 description: >- 
     This is an awesome website.
-baseurl: "/news" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://kostato.github.io
 github_username:  kostato
 
